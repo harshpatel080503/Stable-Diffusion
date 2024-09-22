@@ -1,4 +1,5 @@
-![Leonardo_Phoenix_Create_a_sleek_and_futuristic_digital_illustr_2](https://github.com/user-attachments/assets/c264804b-e35d-4cf1-8506-ca66f8f5d36f)
+![Image](https://github.com/user-attachments/assets/03dbaf3d-43b4-4b1d-9ffd-540c812ffa55)
+
 # 🎨 Stable Diffusion
 
 **Stable Diffusion** is a deep learning-based model for generating high-quality images from text prompts using diffusion processes. This project builds upon the recent advances in diffusion models for tasks such as image synthesis, inpainting, and conditional generation, producing visually appealing results.
@@ -89,4 +90,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## 📝 License
 This project is licensed under the MIT License.
 
-![Leonardo_Phoenix_Create_a_sleek_and_futuristic_digital_illustr_0](https://github.com/user-attachments/assets/ba569ee8-8673-4161-9be8-8c80ab725e91)
