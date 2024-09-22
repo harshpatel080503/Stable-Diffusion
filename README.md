@@ -62,9 +62,9 @@ pip install -r requirements.txt
 3. Custom Image Generation
 
 ## 🎯 Result
-###![dog](https://github.com/user-attachments/assets/ee5a4369-84da-4d76-88c0-96afeb7d6ea3)
-- **PROMPT**:- A HAPPY DOG WITH BIG SMILING
-###![Output](https://github.com/user-attachments/assets/f6c2c167-e510-46a3-8d06-9df2b8a9fe4b)
+**PROMPT**:- A HAPPY DOG WITH BIG SMILING
+![Image](https://github.com/user-attachments/assets/ee5a4369-84da-4d76-88c0-96afeb7d6ea3)
+![Output](https://github.com/user-attachments/assets/f6c2c167-e510-46a3-8d06-9df2b8a9fe4b)
 
 - **Note:**End to End Stable Diffusion Project with Deployment Coming Soon...
 
