@@ -42,6 +42,15 @@ Stable Diffusion combines two key components:
 - The model starts with a random noise.
 - Gradually, it denoises the random input using guidance from the text encoding.
 - Through multiple diffusion steps, the model generates a detailed image that corresponds to the given text.
+![Stable Diffusion Model Architecture](https://github.com/user-attachments/assets/de9368ea-f36c-440e-9fa2-c31eaa447f32)
+![Text to Image Model Architecture](https://github.com/user-attachments/assets/90d205be-0bed-4aa3-8d16-d1bcb7b96a22)
+![IMage to Image Model Architecture](https://github.com/user-attachments/assets/85d5eeb4-fae1-4558-bcc2-4772f8777ce6)
+![Variational Autoencoder](https://github.com/user-attachments/assets/a99f0a65-8ed7-4779-a364-5472b945fc27)
+![Contrastive Learning](https://github.com/user-attachments/assets/068b32d9-112e-44ed-9d4e-efe5f944d705)
+![Unet](https://github.com/user-attachments/assets/59a59e5d-a5cb-4c4f-9d9d-b44f7e55cf29)
+![Image](https://github.com/user-attachments/assets/760dd96b-7f89-451f-b06e-cdc90d7ddd34)
+
+
 
 ## 🔧 Installation
 Follow these steps to set up VisionLM locally.
@@ -64,7 +73,7 @@ pip install -r requirements.txt
 ## 🎯 Result
 ![Image](https://github.com/user-attachments/assets/ee5a4369-84da-4d76-88c0-96afeb7d6ea3)
 ![Output](https://github.com/user-attachments/assets/f6c2c167-e510-46a3-8d06-9df2b8a9fe4b)
-**PROMPT**:- A HAPPY DOG WITH BIG SMILING
+**PROMPT**:- A HAPPY DOG WITH BIG SMILE
 
 - **Note:**End to End Stable Diffusion Project with Deployment Coming Soon...
 
