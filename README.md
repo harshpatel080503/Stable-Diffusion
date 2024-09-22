@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ![Output](https://github.com/user-attachments/assets/f6c2c167-e510-46a3-8d06-9df2b8a9fe4b)
 **PROMPT**:- A HAPPY DOG WITH BIG SMILE
 
-- **Note:**End to End Stable Diffusion Project with Deployment Coming Soon...
+- Note:-End to End Stable Diffusion Project with Deployment Coming Soon...
 
 ## 👥 Contributing
 Contributions are welcome! Please follow these steps to contribute:
